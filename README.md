@@ -249,3 +249,6 @@ This repository serves as the official landing page for Dungeon Defenders. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Dungeon Defenders today!**
+
+---
+**Last updated:** 2026-09-07 19:03:37 UTC
