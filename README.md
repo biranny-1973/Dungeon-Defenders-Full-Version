@@ -251,4 +251,4 @@ This repository serves as the official landing page for Dungeon Defenders. The s
 **Get the most recent version of Dungeon Defenders today!**
 
 ---
-**Last updated:** 2026-10-20 23:42:34 UTC
+**Last updated:** 2026-10-21 04:08:50 UTC
